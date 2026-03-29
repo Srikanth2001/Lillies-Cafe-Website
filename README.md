@@ -1,23 +1,29 @@
-#  Foodies App (Restaurant Website)
+# 🍽️ Foodies App (Restaurant Website)
 
 A modern and responsive restaurant website built using **React.js**.
 This project showcases a clean UI with multiple sections like home, menu, ambience, testimonials, and contact.
 
 ---
 
-##  Features
+## 🚀 Live Demo
 
-*  Beautiful Home Page UI
-*  Menu Section with food items
-*  Cozy Ambience showcase
-*  Testimonials section (slider using Swiper)
-*  Contact page with social links
-*  Fully responsive design
-*  Fast and optimized React components
+🌐 **https://lillies-cafe.netlify.app**
 
 ---
 
-##  Tech Stack
+## ✨ Features
+
+* 🍴 Beautiful Home Page UI
+* 📋 Menu Section with food items
+* 🏡 Cozy Ambience showcase
+* 💬 Testimonials section (slider using Swiper)
+* 📞 Contact page with social links
+* 📱 Fully responsive design
+* ⚡ Fast and optimized React components
+
+---
+
+## 🛠 Tech Stack
 
 * **Frontend:** React.js
 * **Styling:** Material UI (MUI), CSS
@@ -27,7 +33,7 @@ This project showcases a clean UI with multiple sections like home, menu, ambien
 
 ---
 
-##  Project Structure
+## 📁 Project Structure
 
 ```
 src/
@@ -79,8 +85,7 @@ http://localhost:3000
 
 ---
 
-
-##  What I Learned
+## 📚 What I Learned
 
 * Building reusable React components
 * Managing UI with Material UI
@@ -90,7 +95,7 @@ http://localhost:3000
 
 ---
 
-##  Future Improvements
+## 🚀 Future Improvements
 
 * Add authentication (login/signup)
 * Add cart functionality
@@ -99,7 +104,7 @@ http://localhost:3000
 
 ---
 
-##  Author
+## 👨‍💻 Author
 
 **Srikanth Dongre**
 
@@ -108,6 +113,6 @@ http://localhost:3000
 
 ---
 
-##  If you like this project
+## ⭐ If you like this project
 
 Give it a ⭐ on GitHub!
