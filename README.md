@@ -56,7 +56,7 @@ git clone https://github.com/Srikanth2001/Lillies-Cafe-Website
 2. Navigate to project folder:
 
 ```
-cd your-repo-name
+cd Lillies-Cafe-Website
 ```
 
 3. Install dependencies:
